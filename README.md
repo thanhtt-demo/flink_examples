@@ -1,3 +1,5 @@
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+
 # GoRealtime
 
 Welcome to our Data Engineering project repository! This open-source project is dedicated to providing comprehensive solutions for real-time data processing on the AWS cloud infrastructure. Leveraging technologies such as Apache Kafka, Amazon Managed Streaming for Apache Kafka (MSK), Apache Flink, AWS Kinesis Data Analytics (KDA), and Kafka Connect, we aim to empower data engineers to build scalable and efficient data pipelines.
@@ -24,26 +26,19 @@ Kafka Connect is a framework for building and deploying connectors between Apach
 ### Examples
 To illustrate the deployment and usage of data engineering technologies on AWS, we provide several examples:
 
-Deploying Kafka on AWS: Step-by-step guide to deploying Apache Kafka clusters using Amazon MSK, including cluster configuration, security settings, and monitoring.
-
-Real-time Data Processing with Flink on AWS: Tutorial on deploying Apache Flink applications on AWS Kinesis Data Analytics, covering application setup, data ingestion, and stream processing logic.
-
-Integrating Kafka Connect with AWS Services: Example of deploying Kafka Connect connectors for seamless integration with AWS services such as Amazon S3, Amazon Redshift, and Amazon DynamoDB.
-
-Scaling Data Pipelines on AWS: Best practices for scaling data pipelines on AWS, including auto-scaling configurations, performance optimization, and cost management strategies.
-
-Monitoring and Logging: Guide to setting up monitoring and logging for data engineering applications on AWS using services like Amazon CloudWatch, AWS X-Ray, and AWS CloudTrail.
+- Deploying Kafka on AWS: Step-by-step guide to deploying Apache Kafka clusters using Amazon MSK, including cluster configuration, security settings, and monitoring.
+- Real-time Data Processing with Flink on AWS: Tutorial on deploying Apache Flink applications on AWS Kinesis Data Analytics, covering application setup, data ingestion, and stream processing logic.
+- Integrating Kafka Connect with AWS Services: Example of deploying Kafka Connect connectors for seamless integration with AWS services such as Amazon S3, Amazon Redshift, and Amazon DynamoDB.
+- Scaling Data Pipelines on AWS: Best practices for scaling data pipelines on AWS, including auto-scaling configurations, performance optimization, and cost management strategies.
+- Monitoring and Logging: Guide to setting up monitoring and logging for data engineering applications on AWS using services like Amazon CloudWatch, AWS X-Ray, and AWS CloudTrail
 
 ### Getting Started
 To get started with our project, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using git clone.
-
-Setup AWS Environment: Set up your AWS account and configure necessary services such as Amazon MSK, AWS Kinesis Data Analytics, and IAM roles.
-
-Deploy Examples: Follow the provided examples to deploy and configure Apache Kafka, Apache Flink, Kafka Connect, and other components on AWS infrastructure.
-
-Experiment and Extend: Experiment with different configurations, adjust parameters, and extend the examples to fit your specific use cases and requirements.
+- Clone the Repository: Clone this repository to your local machine using git clone.
+- Setup AWS Environment: Set up your AWS account and configure necessary services such as Amazon MSK, AWS Kinesis Data Analytics, and IAM roles.
+- Deploy Examples: Follow the provided examples to deploy and configure Apache Kafka, Apache Flink, Kafka Connect, and other components on AWS infrastructure.
+- Experiment and Extend: Experiment with different configurations, adjust parameters, and extend the examples to fit your specific use cases and requirements.
 
 ## Contributing
 We welcome contributions from the community to improve and expand our project. Whether it's adding new examples, improving documentation, or fixing bugs, your contributions are highly appreciated. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
