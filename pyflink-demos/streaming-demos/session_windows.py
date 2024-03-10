@@ -101,7 +101,7 @@ def main():
     # write time windowed aggregations to sink table
     windowed_rev.execute_insert('processedsales').wait()
 
-    tbl_env.execute('tbl-api-session-windows-demo')
+    env.execute('tbl-api-session-windows-demo')
 
 
 if __name__ == '__main__':
