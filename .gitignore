@@ -5,3 +5,5 @@
 */target/**
 /target/**
 **/target/
+**/flink-env/*
+*/flink-env/*

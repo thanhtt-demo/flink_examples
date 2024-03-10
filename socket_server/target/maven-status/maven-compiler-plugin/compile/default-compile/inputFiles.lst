@@ -1,2 +1,3 @@
 /home/ec2-user/flink/code/socket_server/src/main/java/com/thanhtt/socket/DataServer.java
+/home/ec2-user/flink/code/socket_server/src/main/java/com/thanhtt/socket/BankDataServer.java
 /home/ec2-user/flink/code/socket_server/src/main/java/com/thanhtt/socket/DataServerInt.java
